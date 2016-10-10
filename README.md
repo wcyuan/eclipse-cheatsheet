@@ -1,9 +1,9 @@
 ### Table of Contents
 
-*   [Setup](setup)
-*   [Navigating Shortcuts](navigating)
-*   [Editing Shortcuts](editing)
-*   [Icons](icons)
+*   [Setup](#setup)
+*   [Navigating Shortcuts](#navigating)
+*   [Editing Shortcuts](#editing)
+*   [Icons](#icons)
 
 * * *
 
